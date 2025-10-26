@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/ednut-ticket-react/',
+base: '/Ednut-Ticket-React/',
   build: {
     outDir: 'dist',
     sourcemap: false

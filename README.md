@@ -4,7 +4,7 @@ A robust ticket management web application built with React, featuring authentic
 
 ## Live Demo
 
-**[View Live Demo](https://username.github.io/ticket-management-react/)**
+**[View Live Demo](https://odusami.github.io/Ednut-Ticket-React/)**
 
 # Features
 
@@ -55,7 +55,7 @@ A robust ticket management web application built with React, featuring authentic
 
 ## Installation Steps
 
-- git clone https://github.com/yourusername/ticket-management-react.git
+- git clone https://github.com/Odusami/Ednut-Ticket-React.git
 - cd Ednut-Ticket-React
 
 ## Install dependencies
