@@ -616,6 +616,7 @@ span[data-testid="user-greeting"] {
 /* Ticket Management */
 .ticket-management {
   padding: var(--spacing-xl) 0;
+  min-height: 85vh;
 }
 
 .page-header {
