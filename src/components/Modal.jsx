@@ -13,7 +13,7 @@ function Modal({ isOpen, onClose, title, children }) {
             className="modal-close"
             data-testid="modal-close"
           >
-            ✕
+             ✕
           </button>
         </div>
         <div className="modal-content">
